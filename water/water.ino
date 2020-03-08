@@ -1,8 +1,8 @@
 
 #include <TridentTD_LineNotify.h>
-#define SSID        "604"
-#define PASSWORD    "1234567890"
-#define LINE_TOKEN  "MqsuOmGBWfATDCI3TM370OxaLF1N6PM5IaTt6xjH45O"
+#define SSID        "********" //Name WIFI
+#define PASSWORD    "********" //Password WiFi
+#define LINE_TOKEN  "***************************" // Token Line Notify
 int state = 0;
 
 void setup() {
